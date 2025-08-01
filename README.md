@@ -1,13 +1,19 @@
- physics assignment group 4
+# 🧪 Physics Assignment - Group 4
 
-MD Nure Alam 
-ID -251-115-171
 
-Khadija Samad Nusrat 
-ID-251-115-156
+## 📚 Assignment Details
 
-Irien akter priya
-ID-251-115-159
+- **Course: Physics 2
+- **Project: Group Assignment
+- **Section: D
 
-Eyazur Husen Khan
-ID-251-115-160
+## 👥 Group Members
+
+| Name                 | Student ID       |
+|----------------------|------------------|
+| MD Nure Alam         | 251-115-171      |
+| Khadija Samad Nusrat | 251-115-156      |
+| Irien Akter Priya    | 251-115-159      |
+| Eyazur Husen Khan    | 251-115-160      |
+
+
